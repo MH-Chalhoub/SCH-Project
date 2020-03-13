@@ -15,7 +15,8 @@ Cette application est une application basée sur Android pour le système de sur
 2. Vous pouvez voir la video dans [03 - Demonstration video] qui explique comment utilizer l'application etape par etape.
 
 # Le code :
- Le code se trouve dans ce repo https://github.com/MH-Chalhoub/SCH .
+* Le code se trouve dans ce repo https://github.com/MH-Chalhoub/SCH .
+* Vous pouver tester le code sur Android Studio.
 
 # Screenshots :
 
