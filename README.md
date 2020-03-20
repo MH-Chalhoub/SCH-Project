@@ -11,7 +11,7 @@ Cette application est une application basée sur Android pour le système de sur
 * L’idée principale de ce projet est de libérer le patient des restrictions d’une telle maladie (comme aller chaque période du temps a l’hôpital pour avoir des tests dans le but de surveiller les taux des substances influenceuses ou bien faire la dialyse); Et de lui aider à vivre sa vie quotidienne normalement sans obstacles .
 
 # Comment installer et utiliser l'application :
-1. Installer l'application trouver dans [04 - ScreenShots] sur une appareil android.
+1. Installer l'application trouver dans [02 - APK] sur une appareil android.
 2. Vous pouvez voir la video dans [03 - Demonstration video] qui explique comment utilizer l'application etape par etape.
 
 # Le code :
