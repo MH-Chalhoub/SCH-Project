@@ -3,7 +3,7 @@
 </p>
 
 # SCH
-Cette application est une application basée sur Android pour le système de surveillance E-Health pour le patient d'hémodialyse.
+Cette application est une application Android pour un système de surveillance E-Health pour les patients d'hémodialyse.
  
 # Objectifs :
 * L'objectif du projet est de traiter un système médical responsable de contrôler la dialyse.
